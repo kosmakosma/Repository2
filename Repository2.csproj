@@ -7,6 +7,7 @@ namespace Repository2
         static void Main(string[] args)
         {
             Console.WriteLine("Pierwszy wpis do master");
+            Console.WriteLine("A tu prosze bardzo drugi wpis");
         }
     }
 }
