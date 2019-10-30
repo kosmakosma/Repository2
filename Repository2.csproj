@@ -1,8 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+using System;
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>
+namespace Repository2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Pierwszy wpis do master");
+        }
+    }
+}
